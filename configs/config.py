@@ -1,4 +1,4 @@
-URL = 'https://demo.ebanq.com/log-in'
+URL = ' https://github.com/skillrill/BankingAppNew'
 TIMEOUT = 15
 
 
