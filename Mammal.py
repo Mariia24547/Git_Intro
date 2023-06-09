@@ -4,7 +4,7 @@ class Mammal:
 
     legs = 4
     feeds_milk = True
-    has_fur = False
+    has_fur = True
     eyes = 2
     nose = 1
     
